@@ -6,3 +6,5 @@ In computer programming, control structures are like rules that help the compute
 0 - A C program that checks wether a entered number is even or odd.
 
 1 - A C program that checks wether a character entered by user is a vowel or a consonent.
+
+2 - A C program to find the largest number amongst 3-numbers.
