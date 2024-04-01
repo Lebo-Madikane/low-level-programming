@@ -8,3 +8,5 @@ In computer programming, control structures are like rules that help the compute
 1 - A C program that checks wether a character entered by user is a vowel or a consonent.
 
 2 - A C program to find the largest number amongst 3-numbers.
+
+3 - A program to find the largest number from numbers entered by user.
