@@ -10,3 +10,5 @@ In computer programming, control structures are like rules that help the compute
 2 - A C program to find the largest number amongst 3-numbers.
 
 3 - A program to check wether a number is positive or negative or zero..
+
+4 - A C program to check wether a character is a alphabet or not.
