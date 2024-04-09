@@ -10,3 +10,5 @@ A function is a block of code that performs a specific task.
 2 - A C program to find the ASCII value of a character entered by user.
 
 3 - A C program to find quotient and remainder of two integers.
+
+4 - A C program to find the sizes of different data type variables.
