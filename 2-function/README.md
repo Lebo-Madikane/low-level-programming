@@ -12,3 +12,5 @@ A function is a block of code that performs a specific task.
 3 - A C program to find quotient and remainder of two integers.
 
 4 - A C program to find the sizes of different data type variables.
+
+5 - A C program that swaps numbers\values.
