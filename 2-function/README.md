@@ -16,3 +16,5 @@ A function is a block of code that performs a specific task.
 5 - A C program that swaps numbers\values.
 
 6 - A C program to find the square root of a number using libary function.
+
+7 - A C program that calls on user-defined function to add numbers.
