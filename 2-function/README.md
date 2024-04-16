@@ -18,3 +18,5 @@ A function is a block of code that performs a specific task.
 6 - A C program to find the square root of a number using libary function.
 
 7 - A C program that calls on user-defined function to add numbers.
+
+8 - A C program that calls itself.
