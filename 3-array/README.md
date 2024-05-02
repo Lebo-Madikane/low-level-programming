@@ -8,3 +8,5 @@ A variable that stores an address and multiple data item. All data item must be 
 1 - A C program to find the average of n numbers using arrays.
 
 2 - A C program that stores and prints 6 multi-dimentional array values. 
+
+3 - A C program declaring a three dimensional array.
