@@ -8,3 +8,5 @@ Depending of the type of variable, the computer will reserve more or less memory
 When we ddclare a variable, the computer will reserve the right amount of space for the variable in the memory(depending on its type). The space reserved for the variable is its address. And when we assign a value to the variable, the computer will store the value at its address. 
 
 In order to know what is the address of the variable, you can use the "address-of unary operator" &.
+
+0 - A c program syntax on how to declare a pointer variable.
