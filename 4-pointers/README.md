@@ -10,3 +10,5 @@ When we ddclare a variable, the computer will reserve the right amount of space 
 In order to know what is the address of the variable, you can use the "address-of unary operator" &.
 
 0 - A c program syntax on how to declare a pointer variable.
+
+1 - A c program on how to assign an address to a pointer.
