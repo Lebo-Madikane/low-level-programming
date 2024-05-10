@@ -12,3 +12,5 @@ In order to know what is the address of the variable, you can use the "address-o
 0 - A c program syntax on how to declare a pointer variable.
 
 1 - A c program on how to assign an address to a pointer.
+
+2 - A c program to access the value a pointer is pointing too.
