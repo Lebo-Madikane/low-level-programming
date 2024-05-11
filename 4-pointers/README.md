@@ -14,3 +14,5 @@ In order to know what is the address of the variable, you can use the "address-o
 1 - A c program on how to assign an address to a pointer.
 
 2 - A c program to access the value a pointer is pointing too.
+
+3 - A c program that changes the value of a variable through its pointer.
