@@ -18,3 +18,5 @@ In order to know what is the address of the variable, you can use the "address-o
 3 - A c program that changes the value of a variable through its pointer.
 
 4 - A speacial variable/pointer that stores the address of another pointer.
+
+5 - A c program that uses an array variable as a pointer.
