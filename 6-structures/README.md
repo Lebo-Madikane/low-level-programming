@@ -8,4 +8,4 @@ What if you need to store information of more than one person? Now, you need to 
 
 A better approach would be to have a collection of all related information under a single name Person structure and use it for every person.
 
-0 - 
+0 - A c program that takes the users info using a struct data type.
